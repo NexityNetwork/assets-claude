@@ -1,0 +1,6062 @@
+[
+  {
+    "category": "Educational",
+    "hook_template": "This represents your X before, during, and after X",
+    "tags": [
+      "before_after"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Here\u2019s exactly how much {action_item} you need to to {result}",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Can you tell us how to {result} in 60 seconds?",
+    "tags": [
+      "time_bound",
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "This is what {thing} looks like when you\u2019re {action}. And this is what they look like when you\u2019re not {action}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "I\u2019m going to tell you how to get (Insert result), {mind_blowing_method}.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "It took me 10 years to learn this but I\u2019ll teach it to you in less than 1 minute.",
+    "tags": [
+      "time_bound"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "When you get {item_result} here are the # things you got to do right away.",
+    "tags": [
+      "listicle",
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "If you don\u2019t have {item_action}, do {item_action}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "My money rules as a {description} working towards financial independence.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Money can buy you {item} but it can not buy you {result}.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Here's how to develop a {skill} so strong that you physically can't stop (doing skill).",
+    "tags": [
+      "listicle",
+      "pain_point",
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "This is what {#} of {item} looks like.",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "If I woke up {pain_point} tomorrow, and wanted to to {dream_result} by {time} here\u2019s exactly what I would do.",
+    "tags": [
+      "pain_point",
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "If you're a {target_audience} and you want {dream_result} by {avenue} then listen to this video.",
+    "tags": [
+      "listicle",
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "If you are {age_group_or_range} do not do {action}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "As an {trait} responsible {age} year old with a goal to {goal} here are 3 things I will never regret doing.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Not to flex, but I'm fretty f*cking good at {skill_niche}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "This is what {object_item} looks like when you are using/doing {product_service}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Are you still {action}? I\u2019ve got {result} in {time_frame} and I have never {action}.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Youtube channels that will teach you more than any {industry_niche} degree.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "I think I just found the biggest {niche_industry} cheat code.",
+    "tags": [
+      "curiosity"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Here are 3 people who will make you a better {title}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "{trait} Guy vs {trait} Guy.",
+    "tags": [
+      "comparison"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "I see you doing nothing but {action} after {event} so follow this agenda to avoid that.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Want to be the first {dream_result} in your family?",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "This is how many {item} you need to to {result}.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Everyone tells you to {action} but nobody actually tells you how to do it. Here is a # second step by step tutorial that you can save.",
+    "tags": [
+      "listicle",
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "If you're {age_range} these are the # things you need to do so you don't end up {pain_point} by {age}.",
+    "tags": [
+      "listicle",
+      "pain_point"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "If I were starting over in my {age_range} with no {item} here are the top # things I would do to {dream_result}.",
+    "tags": [
+      "listicle",
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Here are some slightly unethical {industry_niche} hacks that you should know if you're {target_audience}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Here's exactly how you're gonna lock in if you want to {dream_result}.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "This is the same exact {thing} but the first is/got (insert result and the second is/got X",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "If you want to end up {pain_point} then skip this video.",
+    "tags": [
+      "pain_point",
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "We have never used {noun} in our home because we have found it to be generally {trait_traits}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "{action} for {period_of_time} and you will get {dream_result}.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "If you\u2019re between the ages of {age} to {age} and you feel like {pain_point}.",
+    "tags": [
+      "pain_point"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "{before_state} to {after_state} in # simple steps in under # of seconds.",
+    "tags": [
+      "listicle",
+      "before_after",
+      "time_bound"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "If you're trying to {dream_results} then here is the one {thing} you should do.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "How long do you think you have to {action} to {result}.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "If you want to do this, first do this.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "If you\u2019re trying to {dream_result} and you haven't got a clue what to {action} on a daily basis I am going to show you an example.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "This is how many {item} you need to {result}.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "I\u2019m gonna save you # of minutes off your next workout with # of simple tips.",
+    "tags": [
+      "listicle",
+      "time_bound"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "If I only had {time_frame} in the {location_place} this is exactly what I would do to get {dream_result}.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "How long can you skip {action} before losing {result}.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "If you want to {dream_result} a week for the next {weeks} without {pain_point} then listen up.",
+    "tags": [
+      "listicle",
+      "time_bound",
+      "pain_point",
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "If you just turned {age} and you don\u2019t want to {pain_point} then you should do the following # things immediately.",
+    "tags": [
+      "listicle",
+      "pain_point",
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "You can have a perfect {dream_result} by simply dumbing it down.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Did you know that this, this, this, and this get {dream_result}.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Don\u2019t start doing {action} until you learn how to do this.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "{industry} tier list for {year}.",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "In 60 seconds i\u2019m going to teach you more about {thing} than you have ever learned in your entire life.",
+    "tags": [
+      "time_bound"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Everyone tells you to {action} but no one actually shows you how to do it. Here is a # second step by step tutorial that you can save for later.",
+    "tags": [
+      "listicle",
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "If you\u2019re in your {20\u2019s,_30\u2019s,_40\u2019s,_50\u2019s,_60\u2019,_etc} then these are the # of things you need to do to make sure you don;t end up {pain_point} by {age}.",
+    "tags": [
+      "listicle",
+      "pain_point"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "(Insert noun) loses (Insert noun) on this, so they can make {noun} on this.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "You have {noun} tomorrow but you have no time to {action}. Here\u2019s how you save your {noun}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "(Insert scenario) and (Insert dream result), here are the # of steps to get {dream_result}.",
+    "tags": [
+      "listicle",
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Everyone tells you to do {action} but you think it\u2019s too late because you are (Insert age). I am a {occupation} and these are # of things you need to know in your (Insert age).",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "(Insert target audience) if you're serious about playing at the next level.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "You only have to be dialed in on # of things to be an elite {title}.",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "(Insert noun) for dummies.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Don\u2019t hate me but I don\u2019t really mind {noun}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "If you want to do this, first do this.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Best ways to save money while {action}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "This is every way to {action}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "What if I told you this {item} could {result}.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Did you know that if you {action,_(insert_action}, {action}, etc.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "The {thing} you have now in you {age_group} is so {noun}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "At age {age} the age that many {target_audience} is when {pain_point}.",
+    "tags": [
+      "pain_point"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Listen if you\u2019re not forcing your {person_persons} to {action} in their {current_state} don\u2019t expect them to be {trait} in their {after_state}.",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Would you rather watch your {person_persons} {pain_point} or join them in their {niche} journey to save their lives?",
+    "tags": [
+      "pain_point"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "This is the amount of {noun} you would lose per day in a {state}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "If your in a {dream_result} journey, this is exactly what you need to do to {dream_goal} in # simple steps.",
+    "tags": [
+      "listicle",
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "If you told me # of years ago I\u2019d be {dream_result} I wouldn't have believed you.",
+    "tags": [
+      "listicle",
+      "time_bound",
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "If your getting {adjective} or know someone {adjective} there are # of incredulity important things you need to make sure you can do physically in order to (dream result).",
+    "tags": [
+      "listicle",
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "If you don\u2019t want to fail {life_event}.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "I crammed the hardest {noun} and {dream_result}.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "If you\u2019re cooked for your {life_event} but still can\u2019t find the motivation to do {action} you\u2019re gonna want to see this.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Here\u2019s the difference between {title}, {title} , and {title}.",
+    "tags": [
+      "comparison"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "If I were in my {age_range} here is exactly how I would avoid {bad_result}.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Here\u2019s every {noun} that you actually need to know.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "The most important things I will teach my kids as a {job_title}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "If you can\u2019t solve this {problem} in under 5 seconds go back to {pre_qualifying_stage}.",
+    "tags": [
+      "time_bound",
+      "pain_point"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "seconds of {industry} advice I give my best friend if he/she were starting from scratch.",
+    "tags": [
+      "time_bound"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "I would do this before quitting your job.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "If you do this you\u2019ll {result}.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "If your a {target_audience} who {pain_point} and you want to {dream_result} let's go over a very simple # step plan you can follow to quickly {dream_result}.",
+    "tags": [
+      "listicle",
+      "pain_point",
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Here are 5 books to {dream_result} better than 99% of other people.",
+    "tags": [
+      "result_oriented",
+      "comparison"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "If you're somebody who {action} and your goal is to {dream_result} and {dream_result} at the same time. Then here are my # best tips.",
+    "tags": [
+      "listicle",
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "If you can't do {action}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "If you can do # of {action}, than you can do # of {action}.",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "If your mom didn\u2019t teach you how to make {noun} growing up, don't worry i'm your mommy now.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Never lose a game of {game} for the rest of your life.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "levels of {noun}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Did you know that if you\u2026 (Insert action), {action}, {action}, etc",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "I am a professional {industry} hacker, and here's every hack at {store_location_event_etc}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "I have a very long list of {noun} that I {action} that I gate keep from other people. But today I feel like giving back so I am going to tell you.",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "I am going to teach you how to identify a good {noun} to a bad {noun}.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "I went to {school_type} so you don't have to.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Ranking all the most popular {noun}, so I can rank them from worst to best.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Here is how I {action} as a {label} {age}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "You wouldn't get {bad_result} when you {action} if you {action}.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "This is harder than getting into Harvard.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Now how much does it really cost to {action}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "This is why no one remembers you.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "I'm 20 which means my teenage years are officially over, so here;s everything I learned from the 7 most weirdest years of my life.",
+    "tags": [
+      "time_bound"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "If you're a (target audience) and you want to become {dream_result} by {action} then listen to this video because you have such a big advantage and I will tell you how to conquer it.",
+    "tags": [
+      "listicle",
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "If you take {noun} it will {result}.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "I just made a website called {the_longest_but_most_relatable_website_name}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "How to turn just one {noun} into a lifetime of free {noun}.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Things that are damaging your {noun} without you even realizing it.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "If you have when you see a girl and she just has {dream_result}.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "I've {dream_result} despite having {pain_point} and this is the routine that did it.",
+    "tags": [
+      "pain_point",
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Swap these {noun} for better {result}.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Did you know that this, this, and this target {dream_result}.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Your {noun} looks like this and you want them to look like this.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "(Insert last year) {noun}, {current_year} {noun}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Okay {pain_point}, how about we don't f up {current_year}",
+    "tags": [
+      "pain_point"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "This is the program/steps I would follow if I was trying to {dream_result}.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "If your {noun} looks anything like this, these are not {noun} these are {noun} and here is how you can get {dream_result}.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Here are some {action} you can do without {noun}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Let's find out what {noun} you are in # steps.",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Most people can only do {action} when trying to {action} but as an {title} you should be able to {action}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "As an {title} you should be able to do this, if you can't {diagnosis}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "If you're an {title} you should be able to do this, this, and this. If you can't I got you, just do this # step/routine/program to {dream_result}.",
+    "tags": [
+      "listicle",
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "If you have {pain_point}, {pain_point}, and {pain_point} you might be {action} wrong.",
+    "tags": [
+      "pain_point"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "If you feel like your never {point} here is everything you need for a {dream_result}.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Do you have a {pain_point} don\u2019t waste your money trying to {solution} it's just going to come back.",
+    "tags": [
+      "pain_point"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "If giving yourself {result} causes {pain_point}, {pain_point}, and {pain_point} here is how I cheat it.",
+    "tags": [
+      "pain_point",
+      "result_oriented",
+      "curiosity"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "You don't have {pain_point}, your not {adjective}, your not {adjective} you just need to {solution} and I am going to tell you how to do it.",
+    "tags": [
+      "pain_point",
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Worst thing you can do for your {thing} is to ignore your {noun} when {scenario}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Ladies, you can do all the {action} but that's not going to do sh*t for your {noun}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Never {action} first and then {action}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "What happens when you go X hours/days/weeks/years without {noun}.",
+    "tags": [
+      "time_bound"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "There is no doubt in my mind that {action} are the best {noun} for your {noun}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Don't touch this.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "What I wish I knew at {age} instead of {age}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "You're damaging your {noun} if you {noun} looks like this or like this.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "My most complemented {noun} of {year}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "I have been dating my girlfriend/boyfriend for # years here are # basics I learned that every guy/girl should do for a partner in {scenario}.",
+    "tags": [
+      "listicle",
+      "time_bound"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "When I say I {action} everyday and I don't {action} everyday people always ask me\u2026",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "of ways to raise {adjective} children.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "It's okay f you mom didn't talk to you about",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "The reason you can't {dream_result} to get that {dream_result} you keep talking about is because\u2026",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "This is your {noun} on a regular day, this is you {noun} on {scenario}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "You guys know this look, when someone perfectly {action} and {action} I am obsessed with this {noun}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "You crave {noun} on your {scenario} here's why.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "This is you {noun} when you {action}, and this is your {noun} when you {action}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "I have {noun} commercial {noun}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Stop {action} if you actually want to {dream_result}.",
+    "tags": [
+      "listicle",
+      "pain_point",
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "This is how much {dream_result} you achieve if you {action}, and this is how much {dream_result} if you {action} and these # of hacks.",
+    "tags": [
+      "listicle",
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "If you want to {of_dream_result} per week this is how you are going to do it.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "This is for the homies who promised {person_persons} and nice and fancy {noun}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "What if I told you, you could {action} for only {low_cost}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Why did it take me over # years to realize you can make {result} in # minutes.",
+    "tags": [
+      "listicle",
+      "time_bound",
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Don't hate me but I don\u2019t really mind {basic_niche_thing} but don;t worry I am going to show you how to make it way better.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "{dream_result} and {dream_result} with these # of tips. For reference I have {personal_result}.",
+    "tags": [
+      "listicle",
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "If you have a {dream_result} keep scrolling. Today we are going to talk about a {routine,_method_strategy} to {dream_result}",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Did you know that if you {action}, {action}, {action}, etc.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Here's exactly how much {noun} you can make with under {dollar_amount}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "The lack of clinical studies on {noun} isn't because it doesn't work, it's because\u2026",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "You'll never get {dream_result} in your {age_range} if you don;t do these 3 things when you turn {age}.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "lessons, # of {person_persons}, in # of days/weeks/months.",
+    "tags": [
+      "listicle",
+      "time_bound"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "I make more money than doctors, engineers, and lawyers and no I didn't go to college for more than 6 years to get a degree.",
+    "tags": [
+      "time_bound"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "I worked at {company} for X months/years and now I am exposing everything they keep from customers.",
+    "tags": [
+      "time_bound"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "This is what {money_amount} will get you in {location}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "How much do I need to make or buy a {price} {noun}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "I make {hourly_rate} can I qualify/buy {loan_noun}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Let's see what your monthly payment would look like if you owned {noun}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Lets see what $1,800 a month gets you in {location}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "If you are paying over {price_amount} for a {noun}, you might as well buy a {noun}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "I have made a spreadsheet with over {large_number} of {noun}.",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "This is {large_number} of {noun}.",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "There is one thing above all that sets the top {title} apart from the rest.",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "This is how I would {action} if I were starting from scratch).",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "If you're spending a lot of money on {noun} then you need to try this {recipe_method_strategy} because it's super easy and {dream_outcome}.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "If you have a {noun} you have probably experienced this.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "{noun} {trait} {similar_noun} {trait}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "It looks like you haven't done {noun} since {time_frame}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "I don\u2019t know who needs to see this but if you have a {symptom} this is how I literally {dream_result} every single time.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Oh look I found {$}, that means I am going to {verb} I only need this.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "One {noun}, one {noun}, and you have {time_frame}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "The reason your {noun} sucks, is because you have no freaking {adjective}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "You\u2019ve heard of the viral {method_strategy_noun_name} right? Well I invested that!",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "{noun} I would make for you based on your favorite {noun}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Here are {#} of {noun} from {noun} that I am going to {verb} in {time_frame}.",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "How we saved {$} on our {noun}, and one thing we wish we did differently.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "This is everything I bought at {store} today to stay {adjective} at {age}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "{verb} is expensive. Here is how to {noun} for {time_frame} for only {$}.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "How to {verb} you {noun} from a {title}.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "How many {nouns} can you make with only {$}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "I present a challenge {noun} {noun}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "This is every way to make {noun}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "If I have to learn {noun} again here\u2019s 5 tips of everything I would do in # seconds.",
+    "tags": [
+      "listicle",
+      "time_bound"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "{company_individual} if I {verb} {noun} for you this is what I would do.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "This is what it would {adjective} like if {number} of {noun} were in one {noun}.",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "This {adjective} {noun} gets {verb} by this {adjective} {noun}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "In this video see if you can tell what\u2019s real and what\u2019s (inset noun).",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "I have no idea why I have no {adjective_noun}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "I avoid all toxic {noun}, here is how to clean up your {noun}.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Here are # of questions I ask before {verb}.",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Since {noun} from {prace_location} are basically {fact}, you might as well learn how to make them from home.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Every wonder how the same {noun} can result in drastically different {noun}.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Here\u2019s what to look for when buying {noun} in {location}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "If your {noun} look like this, and this pay attention.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Today I am going to show you have to make the perfect {noun} because I went to {school} so you don\u2019t have to.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "It took me # full hours to {verb} this {noun} and I originally allotted myself # minutes.",
+    "tags": [
+      "listicle",
+      "time_bound"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "(Insert noun) {noun} {noun} where the 3 themes for this {noun}. And you guys I delivered.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Take your {noun} from this to this.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "I have to ask, girl, how do you {adjective} so good?",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "I got to {verb} for {noun} {time}, but let me just {verb} for a bit.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Give me 10 seconds and I will let you know what one suits you best.",
+    "tags": [
+      "time_bound"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Give me 10 seconds and I will let you know if you have a {noun} or a {noun}.",
+    "tags": [
+      "time_bound"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Anyone even notice how some people look naturally {adjective} without doing anything crazy.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "If you\u2019ve ever secretly {action} and hope no one noticed this is for you.",
+    "tags": [
+      "curiosity"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Today we are going to play did you know {noun} edition.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "If this is your first time being {adjective} I am {name} and I am trying to make it {adjective} to {verb} by using {noun}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "My {noun} never {pain_point} no matter what I do.",
+    "tags": [
+      "pain_point"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "{noun} level 1.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Here are # of ways to make {noun}.",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Those little {nouns} are called {name} I am a {title} and I am going to show you how {result}.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "You want to know why it takes {noun} to get {result} again.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "If your {noun} goes {result} when you {verb} while {noun} and {adjective} really {result} by now you know you have {noun} so why aren't you doing a {noun} routine.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "If your {noun} is {adjective} like this, you are likely {diagnosis}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Stop buying your {noun} like this, and start buying them like this.",
+    "tags": [
+      "listicle",
+      "pain_point"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Did you know this tip, it\u2019s going to blow your mind.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "If I {action} right now would you believe me if I told you {truth}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "This is what {noun} looks like. I am a pro {title} and this is the proper way to {action}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Does it actually matter what type of {noun} you use.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "You would need to {verb} {number} {noun} today to get the same {result} you grandparents obtained from just {verb} {number}.",
+    "tags": [
+      "listicle",
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Let\u2019s {verb} our {noun}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "This is what you would {verb} for {person} if you weren't terrified to talk to them.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "When making {noun} the {noun} is just as important as the {noun}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Today I am going to show you the # most common ways to order your {noun} at a {place_location}.",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Guys this is so nerdy but it\u2019s the coolest thing I have ever done with my {noun}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "{noun}, {noun}, {noun}, makes a {noun}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Here are # of {noun} from across the world, let\u2019s break them down to their core components.",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "There are way too many {noun} in the world that sort of all look that same, but are they?",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "{noun}, {noun}, {noun}, are the basic components of a {noun}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Here's a little {noun} 101 for you.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "These are the 3 most common mistakes I see when people are making {noun}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "A quick guide to {verb} {noun} some basic and some unusual.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "I see so many people using their {noun} just like this or maybe like this even when you {action}. So let me show you the trick to perfectly {action}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Here\u2019s how the form of {noun} you add into {noun} affects them.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Why {action} like a normal person, when you can be a psycho instead.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "This is everything I got for free on my {event}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "{noun} is my second {noun} so here are # of {noun} that I used to do a lot and I recommend my students as well.",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "If you gave me {time_frame} to get a job as a {title} this is what I would do.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Did you know if you have a {noun}, {noun}, {noun}, {noun}, {noun} then you can {dream_result}.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "If you're the person who told me this I could kiss you right now because it literally saved my life.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "I bought all the {noun} so you could find out which are the best in each category and which is not worth your money.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Here\u2019s how I get people the best {noun} on {noun}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Did you know that there are # types of {noun}.",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Here\u2019s how you can guess an almost perfect number every single time.",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Here is how I make {noun} that lasts up to {time_frame} and only costs {$}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "I teach {noun} to people like they are in kindergarten, and it's time for class.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "{noun} can be reversed so let\u2019s talk about # things you can do to improve your {noun}.",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "This is how much {noun} you would lose at the end of the day with a {metric} {noun}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Did you know your {noun} are programmed to make your {result}.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "This might be the ultimate {person} hack.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "To {verb} the {metric} in this {noun} the average would have to {action} for {time_frame}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "If you {verb} this {noun} this is the amount of {noun} your body would {result}.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "The worst {noun} that you will regret buying for your {noun} is right here.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "{noun} how to {action} and still {dream_result}.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Use this, to pay for this.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "I paid {$} to build this {noun} from scratch).",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "If I told you, you would {result} form {action} you would probably believe me right? Well here\u2019s the thing\u2026",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "How to budget with a {$} salary using this special {name} technique.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "I spent {$} on new {noun} for my {noun}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Here\u2019s a quick what to {result} {metric} of you {noun} legally.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "{adjective} won\u2019t get this but hopefully you will.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "This is the exact order in which you should be {verb} for all of your {noun}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Why is it we are all so stressed about {noun} but we also all have a {noun} in {location}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Today my kids {noun} is due. So let\u2019s {action}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "There are # things I like to do when I buy a new {noun}.",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Here are # of things you have been putting off around the house that you can get done in # minutes.",
+    "tags": [
+      "listicle",
+      "time_bound"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Show me the method of the best way to {result}.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "things everyone needs to know how to fix in an {location}.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Why does nobody talk about the cost of {action}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Top # ways not to {action} to the {person} you {noun}.",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Top # deadliest {noun} that can kill {living_thing} in one {verb}.",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "So this is {weight} of {noun} if I {verb} that to a {noun} what is that equivalent to for humans.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "What is this? This is your {description_of_visual} and this is this #1 reason that {noun} die.",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "The easiest way to keep you {noun} {adjective} is to pretend\u2026",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "If you're wanting to transfer your {noun} from this into {noun}.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Let\u2019s see how many {noun} we can get out of this.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "This was the most popular {noun} in all of {year}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Did you know that you could {verb} a year's worth of {noun} in {time_frame}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "That is crazy.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Give me 60 seconds to show you how to {action} for the first time after {life_event}.",
+    "tags": [
+      "time_bound",
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Want a {noun} that {dream_result} even when you {action}.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Mom/Dad of # of kids, here is how I treat being a mom/dad as a job.",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "minutes ago {pain_point} and had {pain_point} if you want to {dream_result}, here is how you do it under # minutes.",
+    "tags": [
+      "listicle",
+      "time_bound",
+      "pain_point",
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "If you have a {noun} in your house and a {noun} I am going to show you guys the # of the best things we did to {dream_outcome}.",
+    "tags": [
+      "listicle",
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "If I could suggest any tip to any {person} out these it would be this.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "If you want to do this in {year}. If you want {dream_result} you have 3 main options to make it happen. I am going to go over them right now.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Your {noun} is to {adjective} and {adjective}. Here are # of {noun} to {result}.",
+    "tags": [
+      "listicle",
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "If you {verb} and {action} and it doesn't {result} it\u2019s time to {action}.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "I just made over # of {noun} in under {time} and I will show you how I did it.",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "If you want to add {noun} to you {noun} in {year} and you don\u2019t know what {noun} to get I got you.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "If you storing your {noun} in {noun} stop what you're doing and watch this video.",
+    "tags": [
+      "listicle",
+      "pain_point"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "We spent $ of {noun} for our family of #, and this will last us {time_frame}.",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "People always ask me {name} {fact} {question} well, let\u2019s find out.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "If you\u2019re wondering why when you {action} and don\u2019t {result}. Then proceed to {action} and {result}. It\u2019s because you are not doing this.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Whatever you do, do not let you {person} {action}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "I am sick of hearing this word {word}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "It starts off like this\u2026",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "After {time_frame} of research here is why I choose {noun} and started {action}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Does your {person} {action} like this?",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "If you have a {person} at home, then {action} will dramatically change their {noun}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "I built this {noun} for {$}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "I bought this {noun} for {$} and let me show you what I did next.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "In {year} the {company_person} introduced the {noun}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Here\u2019s the only way I will ever {action}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "So I spent {$} at {store} on my last trip.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "I turned one {noun} into # different {noun}.",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "{company} did not sponsor me this year, so here is how to make their {noun} at home.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Want a {person} who {dream_result} every time, even when you don\u2019t {noun_action}.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "It\u2019s {noun} season, so let\u2019s make a {noun} for your {person}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Your favorite {noun} hacks from {year}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "years as a {occupation} you guys still don\u2019t believe me when I say these things.",
+    "tags": [
+      "time_bound"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "It\u2019s wild to think {type_of_stores} still sell {noun} for {result}. But not everyone knows they actually {result}.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "I am not a DIY guy/girl but I am going to show you how I spent {$} to transform my {noun}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "{noun} we do not recommend for the first time {noun} owners/users.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "How to stop {verb}.",
+    "tags": [
+      "listicle",
+      "pain_point",
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "People keep asking me what to do with {noun}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Does {noun} really kill {live_thing}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "I am going to show you how to {verb} your {noun} so they don\u2019t {pain_point}.",
+    "tags": [
+      "pain_point",
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "things you should never put in the {noun}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Almost everyone thinks they know how to {action}.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Let\u2019s start by mixing {noun} and {noun} and I am going to give it a good shake. What happens?",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Apparently if you\u2026",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Let\u2019s get this brand new {noun} {action} so we can put it to good use.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Throw out you {noun}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "This one mistake can actually kill your {living_thing}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "This is kind of gross but I had to share.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "{name}, how do you {result}?",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "We are going to text {noun}, today on how {adjective} is it.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "All you need is a {amount} of {noun} and you can turn {amount} of {noun} into {result}.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Here are # {noun} that you should never {action}.",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "If I can\u2019t do it in one step, I am not doing it. This is the #1 most efficient way to {verb} {noun}.",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "When {occurrence} you will probably need a better {noun} than this.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "I found out why {noun} wasn\u2019t {result}. So I am going to tell you what you\u2019re doing wrong.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "This is the ultimate master trick to {result} in just # minutes.",
+    "tags": [
+      "listicle",
+      "time_bound",
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Did you know you only need # of ingredients to make {noun}.",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "I am willing to bet, this {noun} is older than you.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Did you know our chicken is dunked in chlorine?",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "The viral {noun} hack that landed me in {news_magazine_outlet}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "I am a # generation {title} and I hope this shows you why you should {action} when {task}.",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Here are the # {noun} items you need to throw in the garbage right now.",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "We\u2019re going to see if it\u2019s true, that {noun} are so filled with toxins that they don\u2019t burn when you hit them with a blow torch.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Believe it or not, this simple device can prevent {pain_point}, {pain_point}, and {pain_point}.",
+    "tags": [
+      "pain_point"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Here\u2019s why I never use a {noun}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Did you know you could take a {noun} like this, and quick {action}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Here are # {noun} as a {title} I would never own.",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Want to find out what\u2019s hiding inside one of these {noun} when they are not properly maintenanced?",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "What I eat in a day on the {noun} diet.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "These are # of {noun} I would not own as a {title}.",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "You should be able to look at her/his {noun} and see if come up to her/his {noun} here.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "If you see {symptom}, {symptom} especially on a {type_of_noun} you better worry about what\u2019s called {name}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "If you have a {noun} and you see that the {noun} is {observation} that's a dead giveaway that they are {action}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "{name}, overused {noun}?",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Here are # human foods that can kill your {living_thing}.",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Before you ever take you {living_thing} on a {action} for the first time you need to watch this.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Strange {noun} behaviors explained.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "{name} what is your {title} trigger?",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "What\u2019s the most overrated {noun}?",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "The top # {noun} for {target_audience}.",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Here are the # {noun} that are the least likely to {result}.",
+    "tags": [
+      "listicle",
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "If you {action} for {timeframe} what would happen?",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "This {noun} has something in it called {name}. {verb} enough of these and they will kill you.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Here are # of things, every {person} should keep in their {noun}.",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Man this, {noun} in {location} is trash. Maybe I should just get this cheap {noun}. Yeah I wouldn't do that if I were you.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "This {noun} isn't bad for you. Yeah it has some {noun} but what does that even mean?",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "So most people don\u2019t know that on a {noun} there is one {noun} every {noun} owner always {action}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "calorie {noun} I am not joking these are literally 0 calories.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "This guy bought a failing {type} company for {noun}. Now it\u2019s worth over {$}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Stop wearing {noun}, it really is just like wearing {analogy_to_represent_damage}.",
+    "tags": [
+      "listicle",
+      "pain_point"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "We all have that one {label} in our life.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "But it\u2019s just an {noun} and it\u2019s {positive} how bad could it be? Well this {noun} has the same amount of {metric} as # {noun}.",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "What if I told you that you could eat this entire jar of {noun} for less calories than 2 servings of their {noun}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "A # calorie deficit per day, for a month should be around {pounds_kilos} of weight loss.",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Welcome back to \u201cI can\u2019t {dream_result}\u201d a series where I show you {routine_tutorial_steps_to_insert_result} that take less than {time} to do/make.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "What I am {verb} on my {goal} journey, {result} last month.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "If your {current_state} you can\u2019t just {result} like everyone else.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "After over a decade of {action} here is what I wish someone would have told me from the start.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "To everyone just doing {#} {action}. Stop that.",
+    "tags": [
+      "listicle",
+      "pain_point"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "If you want to {dream_result}, {action} is the worst thing you can do.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "This is {metric} the exact same amount of {noun} you build everyday. If you {action} hard {#} times per week.",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "You want you {noun} to look like these? So did this guy.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "If I had 90 days to go from being {current_state} to {dream_result} here\u2019s exactly how I would do it!",
+    "tags": [
+      "time_bound",
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "You are {adjective} than you think.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "You can put on/take off {metric} on your {mile_exercise_vertical_etc} in one workout with these simple tips.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "If you have {symptom} you probably have {condition}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "If you {action} but don't when to {action}. You could be losing up to {metric} of you {dream_result} without even realizing it.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "If your {verb} {noun} and then {noun} and then {noun} that is literally the worst thing you could be doing.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "The worst possible thing that can happen to a man/woman is developing {result}.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "I grew about # {metric} in the past year at {age} by fixing my {condition} and {condition}.",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Person #1: {large_number} Person #2: What are you doing? Person #1: {action} I want to get a {dream_result} before {time}.",
+    "tags": [
+      "listicle",
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "So you want to impress you {person} when you {action} this {upcoming_time}.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Person #1: What aren't my {noun} {adjective}? Person #2: It\u2019s because your {common_mistake}",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "If you want to be the {adjective} person in the room, it all starts when you {action}.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "If you have {pain_point} but not much time to {action} and you want to {result} then save these {noun} and {noun} steps/routines/tips.",
+    "tags": [
+      "pain_point",
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "I\u2019ve had a {drea_result} since I was {age}.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "The reason I can {result} and be comfortable, not have any {pain_point} is this right here.",
+    "tags": [
+      "pain_point",
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "I spent {#} whole years with {condition} so you don\u2019t have too.",
+    "tags": [
+      "listicle",
+      "time_bound"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "I have a {metric} {noun} because this is one of my workouts/routines/steps/tips/strategies/methods.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "If you can\u2019t {skill}, then follow this one minute routine/progressional/tutorial and you will have {skill} by the end of this video.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "If your {current_state} then the easiest way to have {dream_state} is to have {result}.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "What would happen to you {noun} if you only {action} for an entire week.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Taking a {noun} can increase your {result} but only with one strategy.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "If you\u2019re serious about getting {result} then this is the only video you will ever need so save it for later and watch till the end.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "If I had to start over and {verb} my {noun} from scratch, these are the only {noun} I would do for someone that is new to {noun}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Let\u2019s see what\u2019s inside {noun}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "This is the reason {noun} is the size they are.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Here is a tier list of the best {noun} sources based off of how good they are for you {noun}.",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "I don\u2019t really show the {noun} a lot of love because I don\u2019t like {action} but today I am going to show you {action}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "What if I told you to {verb} # {noun} everyday?",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "What would happen if you {dangerous_action}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "F*ck it, I am going to role # of {noun} in 60 seconds.",
+    "tags": [
+      "listicle",
+      "time_bound"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "This is what a full {time} {action} looks like at top # {school} in {location}.",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "What\u2019s hommies, I am going to give you a cash course of what {noun} to ask for, based on what you want that {noun} to do for you.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "If your between the heights {height} to {height}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "This is a great trick.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "{$} in {time} and people still think you need a 9-5.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "They say you can\u2019t {result} with {noun} but they're wrong.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Here are # of pricing mistakes we made when starting our {business}.",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "things I'd do if I were to re-start {industry_niche_occupation_hobby}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "The {noun} of a {noun} will tell you a lot about the {noun}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Here are some space saving {noun} hacks that saved our small space.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Do you feel {pain_point} by your {noun} consistent {pain_point}.",
+    "tags": [
+      "pain_point"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "My friends and I turned this {adjective} {noun} into this {adjective} {noun} in just {time}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "What happened to {adjective} {noun}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "{noun} used to have {trait}, now they don\u2019t.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Here is a complete cost breakdown to build my {sqft} home.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "It cost {$} to build my own {noun}, acting as my own general contractor. Here is the complete coast breakdown.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "I paid {$} to build my own dream home and pool as an {title}. Here is the complete cost breakdown.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "I\u2019ve {verb} over {#} of {noun} here are # things I would never do.",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "If you want to {verb} in an exceptional {noun} you have got to stop half-assing things.",
+    "tags": [
+      "listicle",
+      "pain_point",
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "It\u2019s also super hard to get {result} especially with the {condition}.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "It has taken me # years if {occupation_skill_hobby} to realize I have been {action} wrong this entire time.",
+    "tags": [
+      "listicle",
+      "time_bound"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Remember {method_strategy_name} for you next {noun}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Remember {#} {noun} combo for you next {noun}.",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "{industry_niche} tips for if you're broke.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "What {noun} and {noun} do I really need?",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Every time you {action} your passing you {adjective} {noun} just because you don\u2019t know what they are.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Alright you little DIY freaks here's how to build the sauciest {noun} of all time.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Normally I would never say this but please stop {action} until you're ready to {action}.",
+    "tags": [
+      "listicle",
+      "pain_point"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "{noun} for all the {condition} guys/girls out there.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "How to take better {noun}.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "This is every single {noun} in my collection.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Invest in {adjective} {noun}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "For people who {action} and are also into {noun} what the hell are we doing.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Here's how to build a good {noun} rotation.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "This guy has made {$} profit in one day using the technique he is about to use.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "This book will teach you more about the {niche_industry_topic} than all of these books here.",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "If you wear a {noun} or {noun} with {noun} and a different {trait} {noun} then you have {result}.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Every {noun} explained in one sentence.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "If you keep failing your {noun}, just figure out where you're failing it.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "How long does it take to complete the impossible mile.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "{noun} is believed to be super bad for us. Causing {symptom}, {symptom}, {symptom}, and even {symptom}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "{noun} can make you go bald!",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "I\u2019ll tell you a story, We have # {noun} that were invented to solve 3 different problems.",
+    "tags": [
+      "listicle",
+      "pain_point"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "{industry} tier list for 2025.",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "How to start your {noun} from scratch.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Exposing the only {noun} you will ever need.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "How to dress like a {person}.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Every {store_type} has a million {noun} with different {noun}. But some of them are more special than others.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "This is exactly how you and your friends are going to get {result} before this {time}.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "If you\u2019re afraid to {action}, then {action}.",
+    "tags": []
+  },
+  {
+    "category": "Educational",
+    "hook_template": "If you want to start a {noun} in {year} here are some things you are going to need.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Educational",
+    "hook_template": "Putting you on brands you may have never heard of.",
+    "tags": []
+  },
+  {
+    "category": "Comparison",
+    "hook_template": "This is an {noun}, and this is an {noun}.",
+    "tags": []
+  },
+  {
+    "category": "Comparison",
+    "hook_template": "This {noun} and this {noun} have the same amount of {noun}.",
+    "tags": []
+  },
+  {
+    "category": "Comparison",
+    "hook_template": "A lot of people ask me what's better {option_#1} or {option_#2} for {dream_result} I achieved {dream_result} doing one of these and it's not even close.",
+    "tags": [
+      "listicle",
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Comparison",
+    "hook_template": "For this {item} you could have all of these {item}.",
+    "tags": []
+  },
+  {
+    "category": "Comparison",
+    "hook_template": "He/she always {action}, and he/she does {action}.",
+    "tags": []
+  },
+  {
+    "category": "Comparison",
+    "hook_template": "For this {noun}, you could have all of {noun}.",
+    "tags": []
+  },
+  {
+    "category": "Comparison",
+    "hook_template": "This (option #1) has {noun} in it, and (option #2) has {noun} in it.",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Comparison",
+    "hook_template": "This group didn't {action} and this group did.",
+    "tags": []
+  },
+  {
+    "category": "Comparison",
+    "hook_template": "For this {noun}, you could have this whole {noun}.",
+    "tags": []
+  },
+  {
+    "category": "Comparison",
+    "hook_template": "This is {metric} of {noun} for {price}, and this is also {metric} of {noun} for {price}.",
+    "tags": []
+  },
+  {
+    "category": "Comparison",
+    "hook_template": "How long would it take you to go from {before_state} like this (with pain point) to {dream_result} with {desire}.",
+    "tags": [
+      "pain_point",
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Comparison",
+    "hook_template": "If you're between the ages # - # and you want to become {dream_result} and I mean really {dream_result}. Then you have to do these # things.",
+    "tags": [
+      "listicle",
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Comparison",
+    "hook_template": "This {noun} has {metric} and will get you {dream_result}, and this {noun} has {metric} and will get you {dream_result}.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Comparison",
+    "hook_template": "One {noun}, and # of my {noun} have the same {metric}.",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Comparison",
+    "hook_template": "This is a {noun} from {restaurant_store_place} for {metric}, and this is the same {noun} from {restaurant_store_place} for {metric}.",
+    "tags": []
+  },
+  {
+    "category": "Comparison",
+    "hook_template": "This is a {noun}, this is also a {noun}.",
+    "tags": []
+  },
+  {
+    "category": "Comparison",
+    "hook_template": "This is {noun} before you {action}, this is {noun} after you {action}.",
+    "tags": [
+      "before_after"
+    ]
+  },
+  {
+    "category": "Comparison",
+    "hook_template": "These two groups {similar_result} but this group {result}.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Comparison",
+    "hook_template": "The {noun} offers you a (option #1) and a (option #2) what do you choose?",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Comparison",
+    "hook_template": "{#} {noun} I would have this one if I was {verb}, and I would have this one if I was {verb}.",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Comparison",
+    "hook_template": "This is {noun} at {metric}, and it's perfect for {verb}. This is {noun} at {metric}.",
+    "tags": []
+  },
+  {
+    "category": "Comparison",
+    "hook_template": "This is {metric} of {noun}, this is also {metric}.",
+    "tags": []
+  },
+  {
+    "category": "Comparison",
+    "hook_template": "{metric} and {metric} both sides are {adjective} and look the same. Let\u2019s see why.",
+    "tags": []
+  },
+  {
+    "category": "Comparison",
+    "hook_template": "{result} {noun} vs. {result} {noun}.",
+    "tags": [
+      "result_oriented",
+      "comparison"
+    ]
+  },
+  {
+    "category": "Comparison",
+    "hook_template": "Both these {noun} are exactly the same. I have not changed a single {noun}. But this one is {metic} and this one is {metric}.",
+    "tags": []
+  },
+  {
+    "category": "Comparison",
+    "hook_template": "Would you feel more {trait} in this {noun} or this one?",
+    "tags": []
+  },
+  {
+    "category": "Comparison",
+    "hook_template": "Both groups gained the same amount of {noun}. Expect this grouped {action} # days a week, and this group {action} #.",
+    "tags": [
+      "listicle",
+      "time_bound"
+    ]
+  },
+  {
+    "category": "Comparison",
+    "hook_template": "Cheap vs. Expensive {noun}.",
+    "tags": [
+      "comparison"
+    ]
+  },
+  {
+    "category": "Comparison",
+    "hook_template": "You will {result} a week if you {action} on a {journey}. But you will only {result} this much a week if you {action} on a {journey}.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Comparison",
+    "hook_template": "This is what your {noun} looks like when you don\u2019t take {noun}. And this is what your {noun} looks like when you take {noun}.",
+    "tags": []
+  },
+  {
+    "category": "Comparison",
+    "hook_template": "This is me after {action} in the {location} with {condition}. And this is me just {action} in the middle of {location}.",
+    "tags": []
+  },
+  {
+    "category": "Myth_Busting",
+    "hook_template": "{item} {fact}, {complete_opposite_item} {similar_fact}.",
+    "tags": []
+  },
+  {
+    "category": "Myth_Busting",
+    "hook_template": "This is why doing {action} makes you {pain_point}.",
+    "tags": [
+      "pain_point"
+    ]
+  },
+  {
+    "category": "Myth_Busting",
+    "hook_template": "This is how you {dream_result} while {guilty_pleasure}.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Myth_Busting",
+    "hook_template": "{item} {fact}, {item} {similar_fact}, {complete_opposite_item} {similar_fact}.",
+    "tags": []
+  },
+  {
+    "category": "Myth_Busting",
+    "hook_template": "If you're really a {dream_result}, why aren\u2019t you doing {common_belief}?",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Myth_Busting",
+    "hook_template": "Just because you do {action} doesn't make you a good {label}.",
+    "tags": []
+  },
+  {
+    "category": "Myth_Busting",
+    "hook_template": "This is what {number} of {item} looks like.",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Myth_Busting",
+    "hook_template": "If you are {action} just once per (month/day/year) than you are f*ucked.",
+    "tags": []
+  },
+  {
+    "category": "Myth_Busting",
+    "hook_template": "This is me when I {action} {frequency}, and this is me still {action} {frequency}.",
+    "tags": []
+  },
+  {
+    "category": "Myth_Busting",
+    "hook_template": "No your {noun} is not cause {result}.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Myth_Busting",
+    "hook_template": "Let me de-influence you from {action}.",
+    "tags": []
+  },
+  {
+    "category": "Myth_Busting",
+    "hook_template": "More {target_audience} need to hear this, {common_belief} will not {result}.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Myth_Busting",
+    "hook_template": "It's time to throw away your {item}, you don\u2019t need it anymore.",
+    "tags": []
+  },
+  {
+    "category": "Myth_Busting",
+    "hook_template": "They said, \u201c{famous_clich\u00e9_or_quote}\u201d That's a lie.",
+    "tags": []
+  },
+  {
+    "category": "Myth_Busting",
+    "hook_template": "Don't {action} until you've done this one thing.",
+    "tags": []
+  },
+  {
+    "category": "Myth_Busting",
+    "hook_template": "Stop using {item} for {result}.",
+    "tags": [
+      "listicle",
+      "pain_point",
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Myth_Busting",
+    "hook_template": "You cannot be {dream_result} before you enter {age_group}.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Myth_Busting",
+    "hook_template": "I stopped acting like the {person_title} in my life and you shouldn't be the {person_title} either.",
+    "tags": [
+      "listicle",
+      "pain_point"
+    ]
+  },
+  {
+    "category": "Myth_Busting",
+    "hook_template": "Your life is boring because you don\u2019t {action}.",
+    "tags": []
+  },
+  {
+    "category": "Myth_Busting",
+    "hook_template": "This is {large_number} worth of {noun}.",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Myth_Busting",
+    "hook_template": "Just because you have never {action} before, doesn't make you a {label} person.",
+    "tags": []
+  },
+  {
+    "category": "Myth_Busting",
+    "hook_template": "This is how we think we {pain_point}, but you would have to {action} on top of {action} # of times for that to happen.",
+    "tags": [
+      "listicle",
+      "pain_point"
+    ]
+  },
+  {
+    "category": "Myth_Busting",
+    "hook_template": "(Insert noun) is actually a really good (Insert noun) for {result}.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Myth_Busting",
+    "hook_template": "things I would never {action} in my {age_range} if I wanted to {dream_result} by {age_range}.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Myth_Busting",
+    "hook_template": "If you look in the mirror and notice {observation} here's what you do to {dream_result}.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Myth_Busting",
+    "hook_template": "I haven't done {common_action} in over # years, and it's healed {noun}.",
+    "tags": [
+      "listicle",
+      "time_bound"
+    ]
+  },
+  {
+    "category": "Myth_Busting",
+    "hook_template": "{dream_outcome} that don't taste/look like pure bootyhole.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Myth_Busting",
+    "hook_template": "You are not {bad_label}, you are not {bad_label}, you just can't {adjective} .",
+    "tags": []
+  },
+  {
+    "category": "Myth_Busting",
+    "hook_template": "My biggest regret in {life_event} was {accomplishment}.",
+    "tags": []
+  },
+  {
+    "category": "Myth_Busting",
+    "hook_template": "{action} I have never {action} before, to prove {action} is easy.",
+    "tags": []
+  },
+  {
+    "category": "Myth_Busting",
+    "hook_template": "For the price of this many {noun} at the {place_store_restaurant} you could make this many at home.",
+    "tags": []
+  },
+  {
+    "category": "Myth_Busting",
+    "hook_template": "If you {action} this {noun} then yes i'm judging you.",
+    "tags": []
+  },
+  {
+    "category": "Myth_Busting",
+    "hook_template": "You are {action} too many {noun} that you didn't know.",
+    "tags": []
+  },
+  {
+    "category": "Myth_Busting",
+    "hook_template": "I have never met a single person that {action}, {action}, {action}, {action}, and still has time to {dream_result}.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Myth_Busting",
+    "hook_template": "{well_known_person_or_brand} is trying to get this video removed from the internet because he/she exposes their product for being {negative_result}. Watch this now before it's gone.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Myth_Busting",
+    "hook_template": "What if I told you making your own {noun} is actually super easy and only costs {price}.",
+    "tags": []
+  },
+  {
+    "category": "Myth_Busting",
+    "hook_template": "I said it before and I am going to say it again {mind_blowing_fact}.",
+    "tags": []
+  },
+  {
+    "category": "Myth_Busting",
+    "hook_template": "There is absolutely no reason for you to be {pain_point} every single day just because you are trying to {dream_result}.",
+    "tags": [
+      "pain_point",
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Myth_Busting",
+    "hook_template": "Don\u2019t make the mistake of {action}, {action}, {action}.",
+    "tags": []
+  },
+  {
+    "category": "Myth_Busting",
+    "hook_template": "You are not bad at {action}, you probably were just never taught how to {action}.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Myth_Busting",
+    "hook_template": "If you\u2019re a young {person} and you are a {result} {title}, let me tell you something you got a bright future buddy.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Myth_Busting",
+    "hook_template": "I can\u2019t {verb} {noun} anymore.",
+    "tags": []
+  },
+  {
+    "category": "Myth_Busting",
+    "hook_template": "Believe it or not this {noun} was not {verb} with a {noun}.",
+    "tags": []
+  },
+  {
+    "category": "Myth_Busting",
+    "hook_template": "{noun} are not {adjective} and they are not a cop-out. I think they can actually be made into something really really {adjective}.",
+    "tags": []
+  },
+  {
+    "category": "Myth_Busting",
+    "hook_template": "If your {noun} are not lasting you at least {time_frame} you are probably doing them wrong.",
+    "tags": []
+  },
+  {
+    "category": "Myth_Busting",
+    "hook_template": "This is why you should always {verb} your {noun} before {verb}.",
+    "tags": []
+  },
+  {
+    "category": "Myth_Busting",
+    "hook_template": "You're using your {noun} wrong and I am going to show you how to use it the right way.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Myth_Busting",
+    "hook_template": "Everyone on the internet is going to tell you making {noun} is impossible. But I am going to show you how to make them from home.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Myth_Busting",
+    "hook_template": "I will let you in on a secret {verb} is the easiest thing in the world.",
+    "tags": [
+      "curiosity"
+    ]
+  },
+  {
+    "category": "Myth_Busting",
+    "hook_template": "Are you still {verb} {noun} like this? While I worked at {noun} and let me show you how to do it like a pro.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Myth_Busting",
+    "hook_template": "Instead of {verb} {noun} like this, try this method instead.",
+    "tags": []
+  },
+  {
+    "category": "Myth_Busting",
+    "hook_template": "{verb} does not mean your {adjective}, it means your just {adjective}.",
+    "tags": []
+  },
+  {
+    "category": "Myth_Busting",
+    "hook_template": "If you {action} like this, then you're doing it wrong.",
+    "tags": []
+  },
+  {
+    "category": "Myth_Busting",
+    "hook_template": "I am going to hold you hand while I tell you this. If you only have # of {noun} you are not doing it the right way.",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Myth_Busting",
+    "hook_template": "things you should never put in your {noun}.",
+    "tags": []
+  },
+  {
+    "category": "Myth_Busting",
+    "hook_template": "{noun} are not as disgusting as you think.",
+    "tags": []
+  },
+  {
+    "category": "Myth_Busting",
+    "hook_template": "{noun} is better for {result} than {noun}. And yes I am going to back up my claim with studies.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Myth_Busting",
+    "hook_template": "Being {result} is not just based on {noun}. You may not believe this but I could have been {adjective} then this guy/girl if I had just changed a few things.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I started my {business} when I was {age} with {$}.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "X years ago my {person} told me {quote}.",
+    "tags": [
+      "time_bound"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I have {time} to get my sh*t together.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I don\u2019t have a backup plan so this kind of needs to work.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "This is how my {event_item_result} changed my life.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "So about a month ago my {person} and I did {action}.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I have {action} over {#} in my life.",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "This is a picture of my {what_picture_is}.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "X years ago I decided to {decision}.",
+    "tags": [
+      "time_bound"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "Yesterday I was at {location} when I noticed something {adjective}.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "X years ago I was {action} because I {pain_point}.",
+    "tags": [
+      "time_bound",
+      "pain_point"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "Is it possible to {action} while {action} in X days.",
+    "tags": [
+      "time_bound"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "When is it time to do {action}.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "So I did {action} last week.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "When I was {description} I was always {bad_habit}.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "If you are anything like me, you take your {event_item} very seriously.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "In {time}, I went from {before_state} to {after_state}.",
+    "tags": [
+      "before_after"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "X years ago we {action} to {result}.",
+    "tags": [
+      "time_bound",
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "Hi I am {first_name} and I am starting {business} from scratch.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "This is the story of how I managed to do {achievement}.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I am {age} having an identity crisis.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "(# days/months/years) ago I quit {thing}.",
+    "tags": [
+      "listicle",
+      "time_bound"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "This is probably the scariest thing I have ever done.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "This girl/boy was in her/his flop era.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "Is it possible for {description} to make {$} a month?",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I did everything right.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "So I recently started feeling \\\"the pressure\\\" everyone talks about.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "Can you {dream_result} after {shortcut}.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "After X years of I {action} because I realized one thing: {statement}.",
+    "tags": [
+      "time_bound"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "It all started when {person} {action}.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "X years ago {people} {action}.",
+    "tags": [
+      "time_bound"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I'm {action} in {time} and I just {action}.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "Year Ago today, I ___.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I'm {age} and I'm not ashamed to admit that >>",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "When I {action}, people said {feedback}.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "X days/weeks/months/years into my {action}, my worst nightmare became my reality.",
+    "tags": [
+      "time_bound"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "It all started when this boy/girl, {action}.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "X days/weeks/months ago my {person} and I {action}, {action}, and {action} this is how it's going.",
+    "tags": [
+      "time_bound"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I started my {business} when I was {age} with {$}",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "X days/months/years ago my {person} told me {statement}",
+    "tags": [
+      "time_bound"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "When I {action}, people said {feedback}",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I woke up this morning thinking about {thought}",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "X days/months/years I {life_event} and decided to quit {bad_habit}",
+    "tags": [
+      "time_bound"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "X days/months/years I started {action} again after being stuck at {pain_point}",
+    "tags": [
+      "time_bound",
+      "pain_point"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "X days/months/years I started {action} thinking it would magically solve {pain_point} but here is what ended up happening",
+    "tags": [
+      "time_bound",
+      "pain_point"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I am an X year old {occupation} from {location} and I just {action}",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I don\u2019t have a backup plan so this kind of needs to work\u2026",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "This is how my X changed my life",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I have {action} over {#} in my life",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "This is a picture of my {what_picture_is_of}",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "X days/months/years ago I decided to {decision}",
+    "tags": [
+      "time_bound"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "Yesterday I was at {location} when I noticed something {adjective}",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "X days/months/years ago I was {action} because I {pain_point}",
+    "tags": [
+      "time_bound",
+      "pain_point"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "Is it possible to {dream_result} while {action} in X days",
+    "tags": [
+      "time_bound",
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "When is it time to do {action}",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "So I did {action} last week",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "When I was {description} I was always {bad_habit}",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "If you are anything like me, you take your {action} very seriously",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "In {time_frame}, I went from {before} to {dream_result}",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "X days/months/years I {big_risk}",
+    "tags": [
+      "time_bound"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I am starting/started a {business} from scratch",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "This is the story of how I managed to do {achievement}",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I am {age} having an identity crisis",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "X days/months/years ago I quit {habit}",
+    "tags": [
+      "time_bound"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "X days/months/years ago I stopped {action_or_habit} and started {action_or_habit}",
+    "tags": [
+      "listicle",
+      "time_bound",
+      "pain_point"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "This is probably the scariest thing I have ever done",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "This girl/boy was in her/his flop era",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "Is it possible for {avatar} to {dream_result}?",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I did everything right/wrong",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "So I recently started feeling {feeling} everyone talks about",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "Can you {dream_result} after {shortcut}",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "After X years of {action_or_habit} I stopped/started {action_or_habit}",
+    "tags": [
+      "listicle",
+      "time_bound",
+      "pain_point"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "It all started when {person} {action}",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "X days/months/years ago {people} {action}",
+    "tags": [
+      "time_bound"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "X days/months/years, I ___",
+    "tags": [
+      "time_bound"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I'm {age} and I'm not ashamed to admit that",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "The secret is out I am {action}",
+    "tags": [
+      "curiosity"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I got {dream_result} without (pain point/points) here\u2019s how",
+    "tags": [
+      "pain_point",
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "So I {shocking_action} for over {time_frame}",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "So I messed up",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I developed an X addiction so strong I physically can not stop {action}",
+    "tags": [
+      "listicle",
+      "pain_point"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "X years it took me from {bad_situation_result} to {good_situation_result}",
+    "tags": [
+      "time_bound",
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "X Months/Years ago I {action} to {action}",
+    "tags": [
+      "time_bound"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I {action}",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "There is nothing more embarrassing than X",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I am a {title} by day and a {title} by night",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "Come with me to make {object}",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "Come with me to break up with {object_company_etc}",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I started {business} at (age/life event) and I had no idea I would {result_outcome}",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "You know the feminine urge to open {business}",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "It\u2019s been {time} since we {experience}",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I think {belief_opinion} so I have been taking matters into my own hands",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I was shocked when I found out {fact}",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "So I just turned {age}",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "This is how I got to {cool_opportunity} in my X week/month/year of doing/starting {business_or_job}",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "What happens when you {action} then you end up {result} but you {challenge}",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "What if I told you that {dream_result} without {pain_point}",
+    "tags": [
+      "pain_point",
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I went on # of {noun} this year, and here is the one trait I learned that you need to have to {dream_result}.",
+    "tags": [
+      "listicle",
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "X days/months/years ago I was {action}, every waking hour because I was {trait} and I wanted {result}.",
+    "tags": [
+      "time_bound",
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "X days/months/years ago I was {life_event}, because I was {action} instead of {action}.",
+    "tags": [
+      "time_bound"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "This is {person} we have known each other from X years, X days, X hours, X minutes.",
+    "tags": [
+      "time_bound"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "Put a finger down if you told the entire internet you were going to create a {noun} without having any idea how to {action} or any idea how to start?",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I think {noun} should be better than this, so i;ve been taking matters into my own hands.",
+    "tags": [
+      "comparison"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "This is me {life_state}, yes my {observation} all my {persons} were {action} but I couldn't because I had to {scenario}",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I used to be in a super toxic relationship back in {time_frame} so let me tell you about it.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "How I married my middle school/highschool/college girlfriend/boyfriend.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "{person} always expects you to have {result} but the problem is\u2026.",
+    "tags": [
+      "pain_point",
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "My {label} {name} and I, started {business} in {year}.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "X days/months/years ago my {label} {name} and I {action} to {result}.",
+    "tags": [
+      "time_bound",
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "You are not {label} is something I wish I could have told my younger self.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "Is it possible to get {dream_result} with only {action} for only 1 day.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I have no idea what I am doing at {place}.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I got {result} at {age} and {result} by {age} if you are scared about {result} this is for you.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "Is it possible to {action} successful {noun} for {noun} in just 1 hour?",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "{year} - I think I am going to {goal}.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "So I bought this {noun} last week and quickly realized I have no idea how to {action}.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "X days/months/years ago I bought a {noun} as a {age} with a full-time {job}.",
+    "tags": [
+      "time_bound"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "We {action} over # of the most {adjective} {profession} and # responded.",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I hate to say this but my wake up call wasn't as {scenario} no my first wake up call was {scenario}.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "Is it possible to get {dream_result} without your daddy being the CEO of apple.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "If you're new to this channel let me catch you up.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "The worst part about being a {title} is I literally do not\u2026",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "Living in a {adjective} household has led me to literally having {bad_result}.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "Nothing could have prepared me for how it feels being in your {age_group} and {situation}.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "So apparently your frontal lobe does not develop fully until your age 25, so here are some things I have realized since it came in.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I tried a # hour {noun} routine, which is much harder than you think.",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "You think you're a {label}? Well let me introduce you to my life.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "My {person} and I tried a whole {time_frame} without {action}.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "{quote} the first time I heard this I was {action}, and my {person} just dropped that line out of nowhere.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "Build a {noun} with me while I {action}.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I have had 0 {noun} in {time_frame}.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "It was until I build # of {noun} and completed over # of {noun} that I realized {action} is not really that complicated.",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "X days/months/years ago me and my {person}",
+    "tags": [
+      "time_bound"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I am {life_event} in {time_frame} and I just wrote a letter that I wish my {age} self would have read.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I am leaving my {salary} dream job at {company} to {action}.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "This is day # of making fake {noun} for our dream clients until one of them starts working with us.",
+    "tags": [
+      "listicle",
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "X days/months/years ago I went extremely viral for {action}.",
+    "tags": [
+      "time_bound"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "Have you ever wondered why {noun} {adjective} is much better than {noun}.",
+    "tags": [
+      "comparison"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "For those of you who don't know I have been bootstrapping a {business_type} to see how big I can scale it.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "When I told my {person} I was going to start doing this he/she thought it was the worst idea ever.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "These are dumb things I have done in {stage} of {action} for my {noun}.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "This {noun} single handedly changed my career.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "Have you ever tried to {action} something that was supposed to look like this but ended up looking like this.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "Hi my name is {name} and this was me {time_frame} ago a {label} in {noun}.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "Day # of {action} until I {dream_result}.",
+    "tags": [
+      "listicle",
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I just {action} to make {noun}.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I {action} to every {person} in the world. Here is how many people responded.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "What happens when you {action}, {action}, {action}, etc.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "Ever since I was {adjective} my {person} made it very clear to me that he/she was {adjective} about certain aspects of {noun}.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "One day you're gonna get dumped. Not by your girlfriend, not by your boyfriend, not by your fiance, not by your spouse. But by your {noun}.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I am {name} {age} you might know me from my {accomplishment}, {accomplishment}, or {accomplishment}.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I was today years old when I found out that if you have {trait}, {noun} will look really {adjective} on you.",
+    "tags": [
+      "time_bound"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "People are shocked to hear that these are my natural {noun}.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "Have you ever noticed that some {noun} feel {description} while others feel {description}.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "This video got # of views, with a lot of {adjective} feedback. Let's try it out and see if it makes a difference to my {noun}.",
+    "tags": [
+      "listicle",
+      "comparison"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "If you've ever come across one of my reels and thought {adjective} that woman/man has {adjective} {noun}. But here's a little secret: my {noun} was not always like this.",
+    "tags": [
+      "curiosity"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "Welcome back to my {noun} series where I will be teaching you everything I know, no gatekeeping here.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "After {time_period} of having {bad_result} come get my {noun} done with me.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "Hi I am {name} and I am a {negative_label}.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "Here is how I lost a {time_frame} of my life.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I feel really bad for saying this but sometimes you just need to {harsh_truth}.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "As you may know I have been {action} to {dream_result}.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I {action} almost everyday for a week and here is what happened.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "{action} everyday has literally changed my life. In",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I had this weird idea that if I added some {action}, {action}, {action}, etc\u2026",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "Did you know that if you combined {noun}, {noun}, {noun}, etc\u2026",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "When you're sad but then you remember you have {noun}.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I spent {price} on a {noun} here's all the {noun} I got.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "You know those days where it feels like {scenario} well today was that day for me.",
+    "tags": [
+      "time_bound"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I have (inset amount of thing), {amount_of_time}, and a pipe dream to get ready for {event}.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "So I was just {action} to do my {action} of the day when I saw that\u2026",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "Welcome back to another episode of {series_name} where I {action}.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "We are not even {time_frame} into {year} and have gone from being a {before_state} to {after_state}.",
+    "tags": [
+      "before_after"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I {action} but I don't have {noun}.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I worked {hours} in just {days} making all of this {noun} for my {noun}.",
+    "tags": [
+      "time_bound"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "If you told {age} me that I wouldn't be a {title} I would probably tell you to go screw yourself.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I {action} all of the {noun} you want with all the {adjective} that you need.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "Someone just {negative_result} my business.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "Can you please pack my {price} {noun} with me? Of course!",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "The ultimate assembly video of my {huge_metric} {noun}.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I am on a journey to find the best {noun} for {target_audience} and today we went to (insert",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "Here's how I made a wireless {noun} that is valued at {price}.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "We pretty much {action} our entire {noun} into {noun}.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "X days/weeks/months/years ago I purchased {price} {noun} as a {label} with only a {price} deposit.",
+    "tags": [
+      "time_bound"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "For our entire # year relationship my {person} has been hiding something pretty important from me.",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I always had the biggest dream of {dream}.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "(Insert noun) is cringe right now but let me tell you what a game changer it was for me.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "Hey everyone I am {name} I am {age} and I am starting a {business} from scratch.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I didn't realize how bad I lost myself.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I just left my {salary} a year new grad job, and now I am just a disappointment.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "Me and my {person} are supposed to be {action}, but instead we {action}.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "{year} {occurrence}.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I think I got {verb}.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "My {person} wanted a {noun} for {event} so I said thanks for the suggestion but that\u2019s not my vibe and made them {noun} instead.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I\u2019ve {verb} this almost every single day of my entire life.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "Buying things I don\u2019t need because I have adult money.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "A fun fact about my {person} {name} is.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "My entire life I grew up {adjective} and {adjective} it was just my {person} raising the # of",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I spent an entire {time} {verb} but was it a waste of time?",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I am about to go on the biggest bender of my entire life!",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I think I am getting {verb} today.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "Welcome back to me {verb} my {person} {noun}.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I always wondered what it was like to {action}.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "So {time_frame} ago me and my {person} had a little too much fun.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "Selling {noun} at {location} has made me more money than my {person_title} and today I am going to be investing that money into {noun}.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "Welcome back to day #, where I {verb} a {noun} everyday until I am {adjective}",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "(Insert person), (Insert person), or that one (Insert person) we just don\u2019t have {title} like we did back then.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "Day # of trying to {action} all year.",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "This was the {noun} that changed my life forever.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "Over # of you saw this video.",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "Today I woke up and realized {realization}.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I am {verb} a {noun}, on my {noun}.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "Remember that time you were {adjective} so you {action} but the moment {person} {verb} you {action}.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "Okay real talk, I wasn't always this {adjective}.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "Is it possible to stop {pain_point} and {dream_result} in {time_frame} even if you\u2019re in",
+    "tags": [
+      "listicle",
+      "pain_point",
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "{question} I hate this question.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "Last year I {verb} {noun} for {$}.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "Let\u2019s make {#} {noun}.",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I had just {time} to {verb} {#} of {noun} for a {person}. And you have until the end of the video to guess who they are for.",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I only have {time} to finish over {number} of {noun} orders, including {number} of {noun}, {number} of {noun}, {number} of {noun}, and {noun}.",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I {verb} {number} {noun} and I had to throw {number} of them away.",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "Have you ever seen {#} {noun} in one place?",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I have a confession. I have no problem {verb} for my {noun} but it\u2019s the process of actually {noun} that feels so {adjective}.",
+    "tags": [
+      "pain_point"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I am {age} and I have an identity crisis.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I have been a {title} for # years of my life I started when I was # years old working at {location_place} in {location}.",
+    "tags": [
+      "listicle",
+      "time_bound"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "When I was growing up one {noun} I always {verb} with my {person} was {noun}.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "Once upon a time we bought a {noun} on {noun}",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "If I want my {person} to be {dream_result_one_day} that means I got to {action} now.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "Hi I am {name} and I have been secretly {action} for # years.",
+    "tags": [
+      "listicle",
+      "time_bound",
+      "curiosity"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "Can you name something more terrifying than a {person} with a {noun}.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "months/years ago my friends and I started a {business}. And it turned out to be the biggest {result}.",
+    "tags": [
+      "time_bound",
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "This is the ultimate assembly video of my {noun}.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "So {time} ago my {person} and I bought a {noun}.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I am on a journey to find the best {noun} for {person} and today we {action}.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "This week I tried to see if I could {result} for all of my {noun} just by {action} the night before.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "In {year} I started {action} and I gave my life to {person}.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I lied to the {person} who {action}.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "Something I never thought I would have on my bingo card as a {title} was\u2026",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I had to spend {&} on this free {noun} before it even started.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I just left my 9-5 corporate job to start my (insert business.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I feel like # years ago I had my life together as a {title} but just slowly over time things have shifted.",
+    "tags": [
+      "listicle",
+      "time_bound"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "{year} I met my {person} when working at {job}.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "My house has this weird {trait} and it\u2019s haunted me ever since I first toured.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "My {person} and I moved in together and ended up losing {$}.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "X years ago we decided we wanted to know exactly where our {noun} was coming from.",
+    "tags": [
+      "time_bound",
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I made {$} doing {side_hustle} as a side hustle.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I have no intention of\u2026",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "Growing up my parents used to get upset when I {action}, {action}, or {action} they would get frustrated.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "Hi my name is {name} and this is my home.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "This is how much {adjective} {noun} cost me in {location} and a {age} {occupation}.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "Nearly # years/months ago today I packed my bags and left for {location}, thinking I would only be gone for {time}.",
+    "tags": [
+      "listicle",
+      "time_bound"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I am attempting to be the first person to {goal}, day #.",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "When we first moved to the {location}, my {person} bought a {noun} in {location}.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "My {person} told me he/she wanted a {noun} and instead of waiting around I decided to build it right now.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "My parents had # sons/daughters/kids thiers me, my {person}, and {person}.",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "{time} I bought a {adjective} {noun} because it\u2019s cheaper than a {adjective} {noun}.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "Did you know that if you wake up at {time}, and {action}...",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I already know I am going to get a bunch of hate for this but the {noun} is getting taken out today.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "People know me for nearly losing {noun} and dying in {location}.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I am going to do it, i\u2019m going to flip this\u2026 house.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "Dude, it\u2019s day #. And I almost went {result}.",
+    "tags": [
+      "listicle",
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "My {person} lives {exact_number_of_miles} away from my house.",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "Why am I {action} at # months pregnant?",
+    "tags": [
+      "listicle",
+      "time_bound"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "Last year for {holiday} we {action}.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "We spent all day {action}, burning through {metric} of {noun}, and now I am having a fully blown {noun} choice crisis.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "Day # of my {persons} room makeover. Which I kind of took to the extreme but let\u2019s start from the beginning.",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "Every year we make the questionable decision of {decision}.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "This is what I {action} in a day as someone who is trying to {action} less and {action} more.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I have been {title} for {time} now, and I have gained {#} of followers just by sharing {content_type}.",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "My {person} hasn't {action} in over # years.",
+    "tags": [
+      "listicle",
+      "time_bound"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "years ago my {person} and I started {action}.",
+    "tags": [
+      "time_bound"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I have a problem. Which is that my {noun} it {pain_point} and {pain_point}. So i\u2019m going to build my own {noun} that has {benefit}.",
+    "tags": [
+      "pain_point"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "This week in fatherhood/motherhood I am please to report that I {result}.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "Some say the strongest bond is between {person} and his/her {person}.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "Hi i\u2019m {name} and I am a {title}, this is my {person} and he/she loves {noun}.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "What is this massive stack of {noun} that I am holding in my hand, well it is the {noun} for the {number} of {noun} I have done this year.",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I {traumatic_event} at {age} but it\u2019s what happened after that, that actually changed my life.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I was walking past this {store} when I say they had {noun}.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "Fourtnely my {person} and I have a tendency to be a little bit impulsive.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "Yesterday I {action} in {hours} and {minutes}.",
+    "tags": [
+      "time_bound"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "Would you buy a house with no {noun}, well my {person} did!",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "How long does it take to catch {high_number} of {noun}?",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "We got an insane deal on our {noun} a year ago because it needed to be {action}.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "There is a man/woman that comments on every single video I upload.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "Buying {noun} that need a lot of work, can work out in your favor.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "In # days I am selling my {noun} and moving out of the country.",
+    "tags": [
+      "listicle",
+      "time_bound"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I think of my {noun} as my own personal {noun}.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "It\u2019s been {time} since I bought my dream {noun}, and I want to take you through what the last {time} has been like.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "{$} home {bad_result} in just # time/months.",
+    "tags": [
+      "listicle",
+      "time_bound",
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "Come with me to {action} the {title} didn't {action}.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I am revmong all my {noun} friendly upgrades before we {action}. Today we are removing {noun}.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "Let\u2019s try to unclog a {noun}.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "This is what my morning looks like while {situation}.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "Last night at around {time} {person} began textbook stage one {scenario}.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "After many years of total neglect my basement is finally getting much needed TLC.",
+    "tags": [
+      "time_bound"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "How {action} ended with a {person} at my house telling me how lucky we are that {accident} didn't happen.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "Customer called me up because they had {situation} and wanted it {result} immediately.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "While my kids were taking a nap I went to {action} when I realized {realization}.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "My one goal this year was to showcase just how interesting {noun} is.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I don\u2019t usually cry, but yesterday I did. And it wasn\u2019t because of {reason}.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "You know when I started making {noun} I should have known this day would come.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I got a {noun} and it did not turn out to be what I expected.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "About a {time} ago I got in trouble for having too many {nouns}.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I baited this {google_rating} {title} with this {noun} in excellent condition to see if they would rip me off.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I took my {person} to {location} to try this {noun} and it actually caught something.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I opened up a {business_store} in the middle of {location} and I can\u2019t believe how much money I made.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I took a {hour} and {minute} {noun} to {location} and here\u2019s how it went.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "{verb} {noun}, {action}, and don\u2019t",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "This is life as a {noun} addict part {#}.",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "Welcome back to the journey of how I got {result}.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "Come take a {noun} with me that I did not {action} for at all.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "It\u2019s been {time} since I have seen myself with {feature} and that\u2019s all about to change.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "This was me when I was {pain_point}, {pain_point}, and {pain_point}.",
+    "tags": [
+      "pain_point"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "From being {state}, to {state}, back to {state}, to {state}, to now being {current_state} in {time} I have built tons of knowledge when it comes to {result}.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I have {event} in {time} and I have not started {action}. And if I don\u2019t do well I have to {consequence}.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "Today I am eating like {person} for the full day and I am going to see how much weight I gain by the end of the day.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "{time_ago} my {person} {action} when my {person} passed away.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "{time} I started accepting the choice to {drastic_change}.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "years, no {noun}, and today\u2019s the first time I get to use {noun}.",
+    "tags": [
+      "time_bound"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "Does this stuff actually work?",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I gained {pounds_kilos} during {life_event}.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I am letting {business_type} companies, control my {noun}.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "So I am {age} and I work nights at {store}",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "So it\u2019s been a week and I am already on {number} of followers.",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "So when I was {age} I started taking {noun} and at {age} I had to {action}.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I used to always be the guy that had a {condition}, {condition}, and always struggled with {condition}.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "My {person} takes me to the doctor, because I am {age} and already {action}.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "It has come to my attention that some of you guys think I am actually {result} when I do {content_type}.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "A little over {time} ago I posted a video about the benefits of {action}.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I did {action} everyday for one year, and here\u2019s what's different.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I can confidently say the only reason I can {verb} {metric} is simply because of the way I choose to {verb}.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "days ago I quit {noun} as a {age} {title}, and started {noun} for literally one reason.",
+    "tags": [
+      "time_bound"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "A competitor showed up at my job trying to get me fired.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I damaged a customer's property and here\u2019s how I handled it.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "A customer {result} and tried to avoid paying.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I was harassed by {noun} so I had to do this.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "Alright this is officially day #1, trying to make {$} a month with {business}.",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I am a retired {title} who now owns a {business}. So come with me to collect the quarters.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "Did you know you can start your own {business} from home without {pain_point}, {pain_point}, and {pain_point}.",
+    "tags": [
+      "pain_point"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I would like to welcome you to my {location}.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "Let me show yall how to make {$} per day, but installing a simple {noun}.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "Have you ever thought about starting your own {business}?",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "Day # of trying a new hobby to recover from burnout.",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "My {noun} made me {$} last month, and what's crazy about this is I used no money to start this business.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "Make {noun} and {noun} with me from my online {business} and a {label}.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "Hi i'm {name} a {#} generation {title} who shares tips about {niche} and {result}.",
+    "tags": [
+      "listicle",
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "Starting a {business} at {age}.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "Welcome to day # of starting my life over at {age}.",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I have something to address, over the last week I have gained {#} of followers.",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "This is how I ended up taking the biggest risk of my life.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "In 1 year I {verb} over {pounds} of {noun} in my extremely small {location}.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I f*cked up. I bought literally a {metric} of {noun}. And for the last {time} I have been turning them into {results}.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I finally built it. For the last # years I've been turning {noun} into {noun}.",
+    "tags": [
+      "listicle",
+      "time_bound"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "Is it possible to go from {before_state} to {after_state} just by {action}.",
+    "tags": [
+      "before_after"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "We are now at day #, since starting my {project}.",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "Proof that a {noun} can totally transform a space.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "Alright today we are building this {$} {adjective} {noun}.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "Here is how we transformed my {persons} {location} from this to this using {noun}.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "There;s probably a reason why most people don't {action}.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I bought this {noun} for {$}. And today my {person} and I will find out if it {result}.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I can't stand this {noun}, let's transform it.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "Over the past # days I {action} on # of {nouns}. In doing that I have gained over {#} of followers. So here's the thing.",
+    "tags": [
+      "listicle",
+      "time_bound"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "Over the last {time} I have been finding a lot of cool things over {location}. And today I am finally finishing my {project}.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "Do you ever {situation}, yeah well that's my job.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "I bought this {noun} for {$}, and I am going to make it worth over {$} without changing the product in any way.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "This might be the coolest DIY I have ever made.",
+    "tags": []
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "Some people call it a problem but I call it {noun} genius.",
+    "tags": [
+      "pain_point"
+    ]
+  },
+  {
+    "category": "Storytelling",
+    "hook_template": "With the {life_event} coming, it\u2019s time to {action}.",
+    "tags": []
+  },
+  {
+    "category": "Random",
+    "hook_template": "This is {large_number} of {item}.",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Random",
+    "hook_template": "This is my {item} and this is {random_action} if I were {random_action}.",
+    "tags": []
+  },
+  {
+    "category": "Random",
+    "hook_template": "You're losing your boyfriend/girlfriend this week to {event_hobby}.",
+    "tags": []
+  },
+  {
+    "category": "Random",
+    "hook_template": "What {title} says vs what they mean.",
+    "tags": [
+      "comparison"
+    ]
+  },
+  {
+    "category": "Random",
+    "hook_template": "{trend} is the most disgusting trend on social media.",
+    "tags": []
+  },
+  {
+    "category": "Random",
+    "hook_template": "I do not believe in {common_belief}, I believe in {your_belief}.",
+    "tags": []
+  },
+  {
+    "category": "Random",
+    "hook_template": "If you like these {job_title}, you'll probably like my {work}.",
+    "tags": []
+  },
+  {
+    "category": "Random",
+    "hook_template": "{big_brand} didn't want to sponsor this video, let me show you what they're missing out on.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Random",
+    "hook_template": "I am trying a different {noun} for each letter of the alphabet.",
+    "tags": []
+  },
+  {
+    "category": "Random",
+    "hook_template": "My {person} has never been in the {place} before let's see if she can tell who is {adjective} or not.",
+    "tags": []
+  },
+  {
+    "category": "Random",
+    "hook_template": "If I get this in, then I have to {verb}.",
+    "tags": []
+  },
+  {
+    "category": "Authority",
+    "hook_template": "My {before_state} used to look like this and now they look like this.",
+    "tags": []
+  },
+  {
+    "category": "Authority",
+    "hook_template": "YEARS it took me from {before_state} to {after_state}.",
+    "tags": [
+      "before_after",
+      "time_bound"
+    ]
+  },
+  {
+    "category": "Authority",
+    "hook_template": "How to turn this into this in X simple steps.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Authority",
+    "hook_template": "{big_result} from {item_thing}. Here's how you can do it in X steps.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Authority",
+    "hook_template": "Over the past {time} I've grown my {thing} from {before} to {after}.",
+    "tags": [
+      "before_after"
+    ]
+  },
+  {
+    "category": "Authority",
+    "hook_template": "Just # {item_action} took my client from {before} to {after}.",
+    "tags": [
+      "listicle",
+      "before_after"
+    ]
+  },
+  {
+    "category": "Authority",
+    "hook_template": "My customer/client got {dream_result} without {pain_point}.",
+    "tags": [
+      "pain_point",
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Authority",
+    "hook_template": "If I were to create a collab campaign for {big_brands} here's how I would do it.",
+    "tags": []
+  },
+  {
+    "category": "Authority",
+    "hook_template": "How I got my {item_thing} from this to this.",
+    "tags": []
+  },
+  {
+    "category": "Authority",
+    "hook_template": "I became a {achievement} at {age} and if I could give you X pieces of advice it would be\u2026",
+    "tags": []
+  },
+  {
+    "category": "Authority",
+    "hook_template": "Everyone is complimenting on my {noun} because of one {noun} routine that I do.",
+    "tags": []
+  },
+  {
+    "category": "Authority",
+    "hook_template": "I lost over {metric} in {time_frame} and here are the # of things I would do if I was to start all over.",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Authority",
+    "hook_template": "My customer/client got {dream_result} with out {pain_point} and here's how.",
+    "tags": [
+      "pain_point",
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Authority",
+    "hook_template": "I am in a {noun} and these # habits dramatically transformed my {noun}.",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Authority",
+    "hook_template": "I got {dream_result} on all of my {noun} with minimal {action} and here's how.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Authority",
+    "hook_template": "If I were to create a {noun} today this is how I would do it.",
+    "tags": []
+  },
+  {
+    "category": "Authority",
+    "hook_template": "If I ever made it to the news I thought it would at least be for something illegal, turns out it's for {dream_result}.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Authority",
+    "hook_template": "{well_known_brand} commented that I am their new favorite {title}.",
+    "tags": []
+  },
+  {
+    "category": "Authority",
+    "hook_template": "What I {action} in a day as someone who has achieved {dream_result}.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Authority",
+    "hook_template": "I literally used to have a {before_state}.",
+    "tags": []
+  },
+  {
+    "category": "Authority",
+    "hook_template": "My {noun} went from this to this in the last {time_frame} and this is what I done.",
+    "tags": []
+  },
+  {
+    "category": "Authority",
+    "hook_template": "I have been pretty much doing the same {noun} for the past {time_frame} and they have legit {dream_result}.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Authority",
+    "hook_template": "When I was {before_state} I was constantly {pain_point}.",
+    "tags": [
+      "pain_point"
+    ]
+  },
+  {
+    "category": "Authority",
+    "hook_template": "In {year} my business made {dollar_amount}.",
+    "tags": []
+  },
+  {
+    "category": "Authority",
+    "hook_template": "As a {title} for several years whose {action} I often get asked {name} {question}.",
+    "tags": [
+      "time_bound"
+    ]
+  },
+  {
+    "category": "Authority",
+    "hook_template": "I have never ended {noun} with a {result} or below.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Authority",
+    "hook_template": "He/she {action} for one day and got {dream_result}.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Authority",
+    "hook_template": "I jumped my {noun} from {before_state} to {dream_result}.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Authority",
+    "hook_template": "This used to be my {noun} this is my {noun} now.",
+    "tags": []
+  },
+  {
+    "category": "Authority",
+    "hook_template": "I have been able to go from this, to this.",
+    "tags": []
+  },
+  {
+    "category": "Authority",
+    "hook_template": "Things I wish I knew before my {noun} that took me from this to this.",
+    "tags": []
+  },
+  {
+    "category": "Authority",
+    "hook_template": "The {noun} I {action} everyday that took me from this, to this.",
+    "tags": []
+  },
+  {
+    "category": "Authority",
+    "hook_template": "I went from this to this.",
+    "tags": []
+  },
+  {
+    "category": "Authority",
+    "hook_template": "No because my transformation from {age} to {age} ought to be studied.",
+    "tags": []
+  },
+  {
+    "category": "Authority",
+    "hook_template": "After {dream_result} here is one thing I learned the hard way so you don't have to.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Authority",
+    "hook_template": "Okay bish you don't need to {action} to {dream_result} coming from someone who {dream_result}.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Authority",
+    "hook_template": "I {dream_result} in the past {time_frame}, here's proof.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Authority",
+    "hook_template": "Here's how my student/client/customer went from {before_result} to {after_result} and {symptom_due_to_result}.",
+    "tags": [
+      "before_after",
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Authority",
+    "hook_template": "% of the time when I am in {situation} I get {result}, and today I will be showing you my {noun} routine so I can help you achieve {dream_result}.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Authority",
+    "hook_template": "I {verb} for {time_frame} and I got a {dream_result}.",
+    "tags": [
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Authority",
+    "hook_template": "This is how I got my {noun} from this to this completely natural.",
+    "tags": []
+  },
+  {
+    "category": "Authority",
+    "hook_template": "Nobody believes me if I say I went from this to this.",
+    "tags": []
+  },
+  {
+    "category": "Authority",
+    "hook_template": "These are the products I use to keep {noun} {noun} and {adjective} as a {title}.",
+    "tags": []
+  },
+  {
+    "category": "Authority",
+    "hook_template": "Same recipe but different {noun}. For this {noun} I used my # tips to make {dream_result} at home and you can really tell it makes a big difference.",
+    "tags": [
+      "listicle",
+      "result_oriented",
+      "comparison"
+    ]
+  },
+  {
+    "category": "Authority",
+    "hook_template": "{noun} is my second {noun} and here are the # {noun} I did over, and over, and over again to improve my {noun}.",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Authority",
+    "hook_template": "How I took this {title} from 0 to {#} of {noun} in 1 week.",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Authority",
+    "hook_template": "I am only {metric} but I have became one of the best {title} in the world.",
+    "tags": []
+  },
+  {
+    "category": "Day_In_The_Life",
+    "hook_template": "We all have the same 24 hours in a day so here I am putting my 24 hours to work.",
+    "tags": [
+      "time_bound"
+    ]
+  },
+  {
+    "category": "Day_In_The_Life",
+    "hook_template": "Day 1 of starting over my whole entire life.",
+    "tags": []
+  },
+  {
+    "category": "Day_In_The_Life",
+    "hook_template": "So okay being an {target_audience}, my days vary quite a lot from one another.",
+    "tags": [
+      "time_bound"
+    ]
+  },
+  {
+    "category": "Day_In_The_Life",
+    "hook_template": "Day in the life of a {adjective} person.",
+    "tags": []
+  },
+  {
+    "category": "Day_In_The_Life",
+    "hook_template": "Welcome back to the day in the life of two {label} trying to build the next {business}.",
+    "tags": []
+  },
+  {
+    "category": "Day_In_The_Life",
+    "hook_template": "{noun} day # {event_about_that_day}.",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Day_In_The_Life",
+    "hook_template": "I am a # year old {title}, and I am heading to {event_location}.",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Day_In_The_Life",
+    "hook_template": "This is a day in the life of a {title} {noun} edition.",
+    "tags": []
+  },
+  {
+    "category": "Day_In_The_Life",
+    "hook_template": "Come to work with me as a {title}.",
+    "tags": []
+  },
+  {
+    "category": "Day_In_The_Life",
+    "hook_template": "{school} day #, my last {noun}.",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Day_In_The_Life",
+    "hook_template": "Day # of turning from {before_state} to {after_state} and suddenly I don't want to be {after_state} anymore.",
+    "tags": [
+      "listicle",
+      "before_after",
+      "result_oriented"
+    ]
+  },
+  {
+    "category": "Day_In_The_Life",
+    "hook_template": "Come with me to earn $ per day, with {avenue}.",
+    "tags": []
+  },
+  {
+    "category": "Day_In_The_Life",
+    "hook_template": "Day # trying to make {$} by the end of the year, by {method}.",
+    "tags": [
+      "listicle"
+    ]
+  },
+  {
+    "category": "Day_In_The_Life",
+    "hook_template": "Day in the life of a future millionaire.",
+    "tags": []
+  },
+  {
+    "category": "Day_In_The_Life",
+    "hook_template": "Day in the life as a {title} {noun} edition.",
+    "tags": []
+  },
+  {
+    "category": "Day_In_The_Life",
+    "hook_template": "This is what an average day of a {title} looks like a week out from {event}.",
+    "tags": []
+  }
+]
